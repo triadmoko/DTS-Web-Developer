@@ -25,3 +25,7 @@ Hal yang perlu kita perhatikan untuk external css dan jquery
 dan multimedia, termasuk diantaranya adalah mengidentifikasi mekanisme
 running atau eksekusi source code, mengeksekusi source code dan
 mengidentifikasi hasil eksekusi.
+
+## LICENCE
+Triadmoko Denny Fatrosa 
+Youtube : [TDF Programming](https://www.youtube.com/channel/UC1lCZMXOA8w_S4LvI3eNz1g?view_as=subscriber)
