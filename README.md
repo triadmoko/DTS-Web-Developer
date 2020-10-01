@@ -20,7 +20,7 @@ Hal yang perlu kita perhatikan untuk external css dan jquery
 
 <script src="js/bootstrap.bundle.min.js"></script>
 ```
-# Pertemuan 4
+# Pertemuan 4-6
 1. Menerapkan perintah eksekusi bahasa pemrograman berbasis teks, grafik,
 dan multimedia, termasuk diantaranya adalah mengidentifikasi mekanisme
 running atau eksekusi source code, mengeksekusi source code dan
