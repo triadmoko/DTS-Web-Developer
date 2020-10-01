@@ -11,15 +11,15 @@ Adapun tujuan mempelajari unit kompetensi melalui buku informasi Pelatihan Junio
 Hal yang perlu kita perhatikan untuk external css dan jquery
 
 1. Link css
-
+```html
 <link rel="stylesheet" href="css/bootstrap.min.css">
-
+```
 2. Jquery
-
+```html
 <script src="js/jquery-3.3.1.slim.min.js"></script>
 
 <script src="js/bootstrap.bundle.min.js"></script>
-
+```
 # Pertemuan 4
 1. Menerapkan perintah eksekusi bahasa pemrograman berbasis teks, grafik,
 dan multimedia, termasuk diantaranya adalah mengidentifikasi mekanisme
