@@ -1,7 +1,8 @@
-# Digital Talent Scholarship 
-Digital Talent Scholarship 2020 adalah program beasiswa pelatihan intensif bagi 60.000 peserta yang bertujuan untuk meningkatkan keterampilan dan daya saing SDM bidang teknologi informasi dan komunikasi sebagai bagian dari program pembangunan prioritas nasional.
 
-# History pelaksanaan DTS Vocational School Graduate Academy (VSGA) Junior Web Development
+# Digital Talent Scholarship Junior Web Development
+Pelatihan ini di bidang Vocational School Graduate Academy (VSGA) Junior Web Development
+
+Digital Talent Scholarship 2020 adalah program beasiswa pelatihan intensif bagi 60.000 peserta yang bertujuan untuk meningkatkan keterampilan dan daya saing SDM bidang teknologi informasi dan komunikasi sebagai bagian dari program pembangunan prioritas nasional.
 
 ## Pertemuan 1 
 Adapun tujuan mempelajari unit kompetensi melalui buku informasi Pelatihan Junior Web Deveoper ini guna memfasilitasi peserta latih sehingga pada akhir pelatihan diharapkan memiliki kemampuan sebagai berikut:
