@@ -1,0 +1,26 @@
+.form{
+
+	text-align: left;
+	width: 400px;
+	height: 400px;
+	margin-top: 10%;
+	background: #f953c6;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #b91d73, #f953c6);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #b91d73, #f953c6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	padding: 10px;
+	border-radius: 10px;
+
+}
+.form h1{
+	text-align: center;
+	color: white;
+	font-size: 20px;
+}
+input{
+	margin-bottom: 10px;
+	line-height: 30px;
+}
+form{
+	text-align: center;
+
+}
